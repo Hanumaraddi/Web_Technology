@@ -1,2 +1,2 @@
 # Web_Technology
-List of HTML fles
+List of HTML files
